@@ -1,3 +1,2 @@
-#Feature-1
-
+#Feature-1 Typo Corrected.
 #Feature-2
